@@ -1,0 +1,4 @@
+giza-datasets==0.2.1
+scikit-learn==1.4.2
+numpy==1.26.4
+skl2onnx==1.16.0
