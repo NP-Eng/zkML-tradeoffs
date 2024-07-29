@@ -23,3 +23,7 @@ Running `pip freeze` should show `ezkl` and `giza` among the installed packages.
 ## Usage
 
 All the code is contained in the `blog.ipynb` Jupyter notebook. It contains detailed explanations and code for data preprocessing, model training, and proof generation. Please refer to the blog post for a detailed explanation of the process.
+
+## Acknowledgements
+
+We would like to thank the authors of [EZKL](https://github.com/zkonduit) for granting us permission to utilize their library. Their comprehensive documentation and detailed tutorials made this project possible.
