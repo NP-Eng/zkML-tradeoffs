@@ -1,6 +1,6 @@
 # zkML: Trade-offs in accuracy vs. proving cost
 
-This repository contains the code for our blog post: https://www.hungrycats.studio/posts/zkml-tradeoffs/. 
+This repository contains the code for our blog post: https://www.np.engineering/posts/zkml-tradeoffs/. 
 
 In the land of (zk)SNARKS, building the most accurate machine learning model is often at odds with the costs of proving and verifying model inference.
 
